@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Answer Services/Answer-Services/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Api-GateWay/Api-GateWay/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Auth Services/Auth-Services/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Question Services/Question-Services/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Quiz Services/Quiz-Services/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Result Services/Result-Services/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/User Services/User-Services/src/main/java" charset="UTF-8" />
+  </component>
+</project>

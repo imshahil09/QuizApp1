@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Api-GateWay/Api-GateWay/pom.xml" />
+        <option value="$PROJECT_DIR$/Auth Services/Auth-Services/pom.xml" />
+        <option value="$PROJECT_DIR$/Quiz Services/Quiz-Services/pom.xml" />
+        <option value="$PROJECT_DIR$/User Services/User-Services/pom.xml" />
+        <option value="$PROJECT_DIR$/Answer Services/Answer-Services/pom.xml" />
+        <option value="$PROJECT_DIR$/Result Services/Result-Services/pom.xml" />
+        <option value="$PROJECT_DIR$/Question Services/Question-Services/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="24" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
